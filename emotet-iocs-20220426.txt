@@ -1,6 +1,6 @@
 emotet_iocs.txt
 
-Emails observed containgin password protected zip files containing emotet
+Emails observed containing password protected zip files containing emotet
 
 0467efd0d2fb4d1cdddc29da74f4ea3fab6032c7c9e71138721aa988df537950
 062b7675f8db9e43382e5d876df114eb9ed9f68ed7955f38788640d5b66509b9
