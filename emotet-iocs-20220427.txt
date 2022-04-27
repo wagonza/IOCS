@@ -4,6 +4,17 @@ Subjects Observed:
 
 All subjects were from previously stolen email threads.
 
+Body of the messages seen so far all have the following pattern:
+
+Archive file attached to email: zipFileName.zip
+Password: someRandomPassword
+
+OR
+
+zipFileName.zip
+Password: someRandomPassword
+
+
 Senders:
 admin@damensp.com
 admin@ptekasakti.com
