@@ -39,7 +39,21 @@ tolgatas@demiryurekas.com.tr
 Zong.bill@damensp.com
 
 Zip File names:
-
+17WEEI Wire Transfer.zip
+2022-04-26_0615.zip
+2022-04-26_0634.zip
+2022-04-26_1120.zip
+2022-04-26_1121.zip
+2022-04-26_1310.zip
+2022-04-26_1318.zip
+ACH Payment 04 26 22.zip
+ACH Payment Advice.zip
+Electronic form.zip
+ELO173057815VY.zip
+Form - 26 Apr, 2022.zip
+form.zip
+Form.zip
+LAU773680169MT.zip
 
 zip file sha256 hashes:
 
