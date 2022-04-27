@@ -2,7 +2,7 @@
 
 Subjects Observed:
 
-All subjects were from previously stolen email threads.
+All subjects were either from previously stolen email threads or 'Re: FirstName LastName' of the recipient.
 
 Body of the messages seen so far all have the following pattern:
 
