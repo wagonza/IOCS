@@ -1,0 +1,68 @@
+
+Zip File Names:
+17WEEI Wire Transfer.zip
+2022-04-26_0615.zip
+2022-04-26_0634.zip
+2022-04-26_1045.zip
+2022-04-26_1120.zip
+2022-04-26_1121.zip
+2022-04-26_1150.zip
+2022-04-26_1237.zip
+2022-04-26_1310.zip
+2022-04-26_1318.zip
+2022-04-27_1522.zip
+2022-04-27_1601.zip
+ACH Form.zip
+ACH Payment 04 26 22.zip
+ACH Payment Advice.zip
+Change of Address.zip
+EFT.zip
+Electronic form.zip
+ELO173057815VY.zip
+Form - 26 Apr, 2022.zip
+form.zip
+Form.zip
+Invoice 015168166 U1425295.zip
+Invoice # 6050582313 DB#79364253 8339.zip
+Invoice Copies 2022-04-27_1002, USA.zip
+LAU773680169MT.zip
+Receipt attached, New York.zip
+
+
+Senders:
+areacontabile@ciapirrello.it
+atyrau@aknurcable.kz
+deddy@ekalogistics.co.id
+direccion.marco@11hidrotech.com
+evi.andriani@tatamulia.co.id
+giovanni260270@libero.it
+manager6@frontbld.com.sg
+marketing@ciapirrello.it
+nomusah@vericred.biz
+pellet@ciapirrello.it
+roshan@bohranepal.com
+shirane@p-dw.co.jp
+siracusa@guglielmirent.it
+sumon@eurozonebd.com
+vijay.kumar@anvibys.com
+zakup@wcm.kz
+
+
+zip sha256 hashes:
+0270fecbce99fb3049cecc692aaab6ed6011073231a7b40c30d9a151b2811583
+125bf20380c5d64c248f356b3d3d82ba51e92733edb8674fb7169ca218a9ee3a
+1efef9565518bf64797fc764b7eb24951e24124c19a3091a87a73a736e66ff6e
+25f72c379bd068f9eb5c8aa580ee8ce05971f15464b1208a8887bbb6ecbc5b5a
+26ace71e8b73a26cea9a0e6dffe2fa7624c46f6b78ba96ada6634226af6e92ac
+2c3063765d65005aef8a9ad10ad59a3a8e7e935698d7ad4a18f302bc52f6f1fe
+39bc9f4598626dfdc6bb38b60670e9514a1af19d910521fd644241ab1f6f007f
+4250cc910b05c553b35d55230e6b36fa25d261ba9301c4f828b0d8636435f4aa
+58c27b5fd8a2f24ca33875617532d340e396cf95b7794d553e523ede8a51cfa1
+5ff76f142e1bd0e24a55c2d8a15ee62b291a0c269bfd03bf26595b8befa79083
+6e7831c0db068ef83f64a9a6a346c254f64b7ee7d88f60278c1383f67f21feed
+7c03584570279f6fbc42f5563b185ac89e6ad65a4f4b1b40670a74fa134301a0
+9d863a394fc8c5d2b09b5566e5618ab4a2bf0ad2dfd594e346802f37ee4803a3
+cf4f4afb54ca58eca850fa90b8375fb7f9b0ed40a24fce589e0f16c394d9038c
+d65402fc453080f3af6df5883e4ef8df050126015d08041fab2d6cce041e31fc
+e78d7f3893bdbe7dd6b9aa157e8f468cf037e2efc52a9f5e8b4db82375e1041e
+f98de76edee17c2d7594267575fcafe5f51b184f7b7598a26d2584a0fe924db1
