@@ -1,0 +1,263 @@
+Contents of the mail is similar to the previous with some text changes and placement of the subject.
+The text has been updated from `Archive file attached to email:` to `Attached is an important document, fileName.zip` or as previously just the fileName.zip
+
+Also the mail includes a signature which has the Display Name and
+a 'Mail' line. This line appears to have an email address info@the_recipients_domain and then occasionally a new line with a link to the recipients domain's website.
+Some other mails I have seen have some random email address, for example toa@rembat24.ru. 
+
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body>
+Attached is an important document, Electronic form.zip<br>
+Password: the_password<br>
+<br>
+<br>
+<br>
+<br>
+From: header Display Name<br>
+Mail <a href=3D"mailto:info@recipientsDomain">info@recipientsDomain</a><br>
+<a href=3D"http://www.recipientsDomain">www.recipientsDomain</a>
+</body>
+</html>
+
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<br>
+<br>
+Attached is an important document, PE090964824563677588_202205121053.zip<br=
+>
+Password: the_password<br>
+<br>
+<br>
+<br>
+RCS Financial Services<br>
+Tel xxx-xxx-xxx Fax xxx-xxx-xxx1<br>=0DMobile xxx-xxxx-xxxx<br>
+Mail toa@rembat24.ru<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><blockquote type=3D"cite" style=3D"padding: 0 0.4em; border-left: #1010=
+ff 2px solid; margin: 0">----Original Message-----<br>
+=0DOn Thu, May 11, 2022 at 21:53  <recipients_email_address> wrote: Re: AW: R=
+CS Financial Services ...........<br></blockquote>
+</body>
+</html>
+
+
+
+Unique Senders:
+
+adminprod@kabatamaraya.com
+aholweger@rydellcars.com
+aldo.dicanio@modomec.com
+a.muhambetova@barbados.kz
+arayay@rissho-hs.ac.jp
+asahi-in@host.or.jp
+a-senoo@lognavi.com
+ashwanikumar@royalcaretechnologies.com
+a.watanabe@acity2001.co.jp
+bangalore.logistic@sysnetglobal.com
+baraj@gpofm.com
+bethm@lucerneluxe.com
+bmartinez@r2group.ph
+b.sharopova@giza-pharm.kz
+businessdevelopment@axapar.com
+celebrita@albena.bg
+cfajar@cmw.co.id
+contabilidad@pluteh.com.mx
+continue@osaka-shien.com
+cuentasporcobrar@conservaciondemexico.com
+czfi@avumbaca.gbsnet.it
+d.hashimoto@morij.co.jp
+diseno@razaimpresores.com
+dossantos_servicios@uolsinectis.com.ar
+dsseol@iatum.co.kr
+erica.bombardini@torneriamengozzi.com
+ernie@epandc.co.za
+erum@cogentsafa.com
+exp-sp@btsa.co.id
+fauzan@p1force.com
+finance@lavoimaging.com
+giuseppe.marasco@expertise.it
+gustavo.trevino@viviendanl.gob.mx
+hendro@inopus.co.id
+hinho@inokougyo.co.jp
+hirosi@taguchi-kensetu.co.jp
+h_sano@axis-tokyo.jp
+iaedo@netlan.cl
+imperiaplus@dynamicrealty.in
+info@consorzio-cis.com
+info@frontier-re.com
+info@gihan-k.com
+info@nuovoelaion.it
+info@pennettafashion.com
+info@policsm.it
+irene.tampubolon@raihbatamtrans.com
+it01@obis.kz
+iwama@tohoku-juken.co.jp
+jarai@k-friend.co.jp
+jlrodriguez@canapat.org.mx
+kazuya-sasaki@nikka-corporation.co.jp
+k.fujii@fujiikensetu.co.jp
+kic@kstcci.or.jp
+king@bobt.co.kr
+k-mori@builhozen.co.jp
+kohnan-c@taiheiyoclub.co.jp
+k-okuyama@nozoe-industry.co.jp
+komazawa@laugh-crew.net
+kominami@futaba-buzen.com
+langiscote@digicom.qc.ca
+leeck@mail.cmu.edu.tw
+lina@pmf.co.id
+ljm-admin01@lingjack.com
+maeda@m-cs.co.jp
+maggie@tkr.com.my
+marliza@casuarinahotels.com.my
+mbrezuela@r2group.ph
+mizobe@sawa-sokuryo.ecnet.jp
+mizumoto@family-cl.co.jp
+mmg_deve@office-mmg.jp
+m-mihata@morita-koumuten.jp
+monitoreo@ssbuenosaires.com
+nadeshiko-mori@saiseikai-kg.jp
+nakatori@airaunso.co.jp
+nandar@khan-offshore.com
+nihei@kaname-k.co.jp
+niwa.y@sun-wa.co.jp
+nizam.m@petroconengineers.com
+nurhayati.fadhilah@bankjateng.co.id
+nwenwewin@oaktha.com
+odaka@psaa.e-arc.jp
+ony@codis.mg
+ozama-tz@masukawa.co.jp
+ozertamer@isinelectromechanical.com
+pankaj.verma@kapitaltech.com
+payner17@payner.bg
+p.diaz@grupobomart.com
+proveedores@hondatec.com.mx
+rdominguez@damiano.com.mx
+rpsingh@dhiplprojects.com
+ryati@quantum-inti.co.id
+sales@rochakengineering.co.zw
+sbcl18@hip.prangroup.com
+shin@kokubosetsubi.co.jp
+simon@thelearningcommunity.co.uk
+sineeporn_csshipping@easternair.co.th
+sneha.p@maintec.in
+soumu@aichi-kousha.or.jp
+ssa1@ytp.com.mm
+subirbanerjee@plastofab.com
+sunil@tharanganee.com
+sunwaiina3817@sun-wa.co.jp
+teknisi@wiennexindo.com
+t.hachiya@smile-sumai.co.jp
+t.ichikawa@ima-g.co.jp
+tinzaraung@elitetech-group.com
+tishimado@suikyugrp.co.jp
+ts.kim1@sceng.co.kr
+tsukasa.i@ima-g.co.jp
+tvangelder@bmtc.net
+vfh-ow04@f-furushima.com
+w-rindo@ishi-rin.or.jp
+wwidawati@theresidence.com
+y-kawashita@yokouchi-kensetsu.co.jp
+y-matsuzaka@sinkou-e.jp
+yoshida@jmf.or.jp
+yoshida@s-i-u.co.jp
+yoshimitsu_karatani@shinko-g.co.jp
+yuuki@wakuda.jp
+
+
+Zips all have .xls docs in them. Yet to see a .lnk.
+
+Zip File names seen:
+
+2022-05-12_0605.zip
+2022-05-12_0631.zip
+2022-05-12_0833.zip
+2022-05-12_0935.zip
+2022-05-12_0939.zip
+2022-05-12_0940.zip
+2022-05-12_0945.zip
+9233078290682192656928137040.zip
+939727597289655392.zip
+Electronic form.zip
+Form - 12 May, 2022.zip
+Form - May 12, 2022.zip
+form.zip
+Form.zip
+INV 2022-05-11_1816.zip
+JVS-010522 VSSK-120522.zip
+payments 2022-05-11_1815.zip
+PE090964824563677588_202205121053.zip
+Saice.org.zip
+SNR-010522 OVRW-120522.zip
+
+
+
+Zip sha256 hash:
+
+01e207aae4e7e108d91726d739c872fba0bc7f2799b936e5f500ae317e764004
+02759b3e9ce65a8999cc4e2df808d72a11bbf40bd00110ab74254b1329567edd
+040359e4d0c612039d6b85e63576e8abdd925f43934040537f0d086feab11789
+04eab95ee6782e4f031812adf30ff35871734411304566c0cb1ce9cf274d0626
+07ab0593a54ade5def5547121caaccbd199a3eadb90439f93d24919ec31aedce
+0c7babcb8fb23b60989123749f89501266becee53f4958c62ca0c9794e72c62e
+0f8794565e15aa550a67da21bd8107e0a4436ecfaa503693ce376df42a23ab8f
+11826ac5b62446d06f27cb756d047ff24986242ef85bd3fc46d3e31875785473
+1262ac68041c26c675cd50630960fcea1c6bfe050c38bd9d0369e5ab64dfd25e
+142d682b58bdd6b6f0f777a35c47e9f38a198ee497e1bde954a505938b4062c7
+1c08392f2da2b4f616f6a8b80952cf695cd9fde82d12acabd266dbb0ef0eb1c0
+1eb2c98332bda3884a5228cb9b14c52045629c20e734486917814337e0099414
+23deea1d6423d1c73bf6538772158896b5ace9234770bda913619a88b04cb7f1
+2fdee8a9afc63ec1d9ab193839aaed2bec73394824e276e635e4487567043f78
+30f29abee30768de4139e6e06b5a259a290b9eec586a05e6d3a8ce03b0f92fb5
+32397f1042ac1b48232fd71d045a0912196735bdd986bfc12795526e0f495d5a
+350a9377949d1f0de28079e10d8168df109bbd7ce3bb87b8e7c501a3da7e4c27
+35122d43a45620154e0c452a5b60f70c7eeccbf580bf814ec51066d10b99efae
+38249ee7bfc3254248a33007800e3cc243d861be174be0175dad8041b513c01b
+38ee9a816bc04fc5ec587d25c4328754908b2ecd9e7b97ebf840ff620d1fb0fc
+3a7244c4d029ff6783499fe0ecf5ce18c5ce44d0b72a65ea1677adad94d94e15
+4473d6d36a672453128aba3a332231934d74cc64865dd64e67157d40505c24a9
+52da408acfe4fb529d711c3d0ba14ea486c595703923ea02b4799b1d8163c0d3
+636d69bfc501cd9d725977c80c4003bab17c8065b5ce122551fa67def485d7ae
+6c059e05145fa503d248644fdef167990f75dc8f467e5e32f7f967c7e943c65f
+6cb9c85d63857514bad3f5d2868610ba41c4148a04bf3dc45e9858ed0ffed7fb
+6d106271db9ffa368502193a0d2fbf1d0429fba37cf68b2882ba34f06e33aad5
+72cc51cafd2b543de3a2392166dbd1e89027d82f16a14541bf5ec7ef97c9cee7
+746f39b80694f9078044a625e2d74933f435ca957cda233013d09bcdc3d4b660
+74ba149ccf70e8fa4dfd2a90ace233a550aa95760b625fac157f8c5ebe332d1b
+7ddbd3ea44c74752c6f2ebaeeb1018f8d6286c5041762782e617b43e07a873ca
+7df5ae30cfe37adab0d8e87871e6e269629bef2ea033423038a2d30bd971a73f
+93801150426728f77fb72b653702f1a412f2122982caf61b5e8613d76e7394d9
+9744fa40915d0e6ff379f3b3c494058125b948b0de728ad54c743db1fb36629a
+98d45644ad524a06b1e8ab5257fb49fdabbfc0322b143a8a366e536cd6ce1171
+a3179e0611203429b7ff6ed1c99e5e92a313056fd0a5609c1c1ff0645e77bc77
+a564344a268e35be5b0c2211c3a20b9738a0d6965c49fc1ffde74fcbfcee3e5f
+a9bf9bef91a02280436ec63864faaf032d72c528e43fab9189e8c5310e735a0c
+aad2d9246236b515b257b7a4768c467de46f75a368f233126be5e3062602e059
+ab658195f9618586634dc437ff03fdb864af663736ddb846b01a084585621318
+c0364489d2a1f3c9db7872e508126cd3a2d0f0617d8c82b98b986be062683d98
+cc1d1271822d1de5ff845f1be4c0449d20ebfac382222f2b911192c4a1a69379
+cff0ae7af415619d307afd41a9fe0fd273e83c154a9bcc76665e2c0be44cd919
+d0422bbe9c416d0cdf988a3466360e2175b5b172c294faf9472fadff6060de65
+d0a5c97b42b64445fb7640e0570781a8e731a2d1c10705a0e8dc86c13725cfa2
+d289489b54dc91d819627f3cdccc959277871fa47d183afab949a1c084effd1f
+d52558453250cbc89a2f5b5ecf3add098256706a9639c7fefba8cf9a48030fda
+d647ac5f5606e3452d600b5e0cfc64e193e1ea262950d7c45149efcd13ef96ef
+ece4b201ac2aa581ec80ae31fefe2903343c116443d69a4cf044447b72baf834
+ed210beb5f119584117026489d67d1791e22678d18a74230f22436fd93306f01
+ee71d87d52665ea685f91ab24ae7cdd982d103cc34172d4e6f7127d436f276f8
+eed1bb9e72976f9fb3bef19065506939b4a3c43c27f674fde230efe0e273a467
+f590a29e7d80883e7b870f55e307ff69c7ae5b6de0f269549e25ade82a4cde3e
+ff2bdac9d673ce021676d12353e82945d00c51713171fb9b0e2d3dfd67fd0a7a
